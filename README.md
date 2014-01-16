@@ -1,4 +1,4 @@
-yanna-dimmer
+yana-dimmer
 ============
 
 Plugin de variateur via pi-blaster (permet de dimmer des led en pwm, ou plus costaud via les composants adaptés)
